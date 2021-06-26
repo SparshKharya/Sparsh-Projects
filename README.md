@@ -49,7 +49,6 @@
         <p class="lead"></p>
       </div>
       <div class="bg-light shadow-sm mx-auto" style="width: 100%;  border-radius: 21px 21px 0 0;"><img src="Technology.png" width="400"></div>
-    </div>
   </div>  
       
         <div class="bg-info me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -67,8 +66,7 @@
             <p class="lead"></p>
           </div>
           <div class="bg-body shadow-sm mx-auto" style="width: 100%;  border-radius: 21px 21px 0 0;"><img src="Twitter Tweet Box.png" width="400"></div>
-        </div>
-      </div>     
+        </div>  
       <div class="bg-danger me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
         <div class="my-3 py-3">
           <h2 class="display-5">Bouncing Balls</h2>
